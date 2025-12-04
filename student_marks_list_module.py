@@ -11,6 +11,9 @@ def studentMarksList(x,y):
 
     highestScore=max(studentMarks)
     print(f"Class highest score= {highestScore}")
+    
+    lowestScore=min(studentMarks)
+    print(f"Class lowest score= {lowestScore}")
 
     sortedList=sorted(studentMarks)
     print(f"the sorted list in ascending order is {sortedList}")
