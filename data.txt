@@ -1,0 +1,1 @@
+the write command allows us to do a number of stuffs using cmdthis will add another line
